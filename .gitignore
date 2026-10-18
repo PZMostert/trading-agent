@@ -1,0 +1,20 @@
+# Secrets
+.env
+*.env
+passwords.txt
+*keys*.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Generated / local files
+watchlist.json
+trades.csv
+temp_strategy.pine
+*.log
+
+# Node (if you clone tradingview-mcp next to this project)
+node_modules/

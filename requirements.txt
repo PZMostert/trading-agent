@@ -1,0 +1,7 @@
+flask
+pytz
+requests
+pandas
+yfinance
+python-dotenv
+lxml
